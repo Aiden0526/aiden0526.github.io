@@ -19,6 +19,19 @@ News
 - **10/2024:** One paper was accepted at the ACM MM Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models.  
 - **05/2024:** The paper [SymbCoT](https://arxiv.org/abs/2405.18357) was accepted to the ACL 2024 main conference.  
 
+
+Publications
+=====
+- [Faithful Logical Reasoning via Symbolic Chain-of-Thought.](https://arxiv.org/abs/2405.18357)
+Jundong Xu, Hao Fei, Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu. 
+ACL 2024 Main.
+This paper is about combining symbolic logical rules in the reasoning chain to improve logical reasoning in LLM
+<!-- - [] -->
+
+
+
+
+
 Academic Services
 ======
 - **Reviewer:** ICLR 2025, ACM MM 2024, Neurocomputing, NLPCC 2024
