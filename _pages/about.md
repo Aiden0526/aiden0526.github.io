@@ -21,12 +21,12 @@ News
 
 Publications
 =====
-- **[Faithful Logical Reasoning via Symbolic Chain-of-Thought.](https://arxiv.org/abs/2405.18357)**  
+- **[Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/abs/2405.18357)**  
   **<span style="color:red">Jundong Xu</span>**, Hao Fei, Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu.  
   ACL 2024 Main.  
   <span style="color:grey">This paper is about combining symbolic logical rules in the reasoning chain to improve logical reasoning in LLM.</span>
 
-- **[Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework.](https://arxiv.org/abs/2412.16953)**  
+- **[Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework](https://arxiv.org/abs/2412.16953)**  
   **<span style="color:red">Jundong Xu</span>**, Hao Fei, Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu.  
   Preprint 2024.  
   <span style="color:grey">This paper is about integrating a decompose-search-resolve framework based on symbolic logic to improve the reasoning chain using LLM.</span>
