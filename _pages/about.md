@@ -17,7 +17,24 @@ News
 - **01/2025:** I officially received my master's degree.  
 - **12/2024:** Our new paper [Aristotle](https://arxiv.org/abs/2412.16953) is released on Arxiv.
 - **10/2024:** One paper was accepted at the ACM MM Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models.  
-- **05/2024:** The paper [SymbCoT](https://arxiv.org/abs/2405.18357) was accepted to the ACL 2024 main conference.  
+- **05/2024:** The paper [SymbCoT](https://arxiv.org/abs/2405.18357) was accepted to the ACL 2024 main conference.
+
+Publications
+=====
+- **[Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/abs/2405.18357)**  
+  **<span style="color:red">Jundong Xu</span>**, Hao Fei, Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu.  
+  ACL 2024 Main.  
+  <span style="color:grey">This paper is about combining symbolic logical rules in the reasoning chain to improve logical reasoning in LLM.</span>
+
+- **[Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework](https://arxiv.org/abs/2412.16953)**  
+  **<span style="color:red">Jundong Xu</span>**, Hao Fei, Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu.  
+  Preprint 2024.  
+  <span style="color:grey">This paper is about integrating a decompose-search-resolve framework based on symbolic logic to improve the reasoning chain using LLM.</span>
+
+- **[Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388)**  
+  Hao Fei, Meng Luo, **<span style="color:red">Jundong Xu</span>**, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu.  
+  ACM MM Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models 2024.
+
 
 
 Publications
