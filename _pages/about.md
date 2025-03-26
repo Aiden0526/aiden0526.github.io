@@ -22,11 +22,20 @@ News
 
 Publications
 =====
-- [Faithful Logical Reasoning via Symbolic Chain-of-Thought.](https://arxiv.org/abs/2405.18357)
-Jundong Xu, Hao Fei, Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu. 
-ACL 2024 Main.
-This paper is about combining symbolic logical rules in the reasoning chain to improve logical reasoning in LLM
-<!-- - [] -->
+- **[Faithful Logical Reasoning via Symbolic Chain-of-Thought.](https://arxiv.org/abs/2405.18357)**  
+  **<span style="color:red">Jundong Xu</span>**, Hao Fei, Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu.  
+  ACL 2024 Main.  
+  This paper is about combining symbolic logical rules in the reasoning chain to improve logical reasoning in LLM.
+
+- **[Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework.](https://arxiv.org/abs/2412.16953)**  
+  **<span style="color:red">Jundong Xu</span>**, Hao Fei, Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu.  
+  Preprint 2024.  
+  This paper is about integrating a decompose-search-resolve framework based on symbolic logic to improve the reasoning chain using LLM.
+
+- **[Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388)**  
+  Hao Fei, Meng Luo, **<span style="color:red">Jundong Xu</span>**, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu.  
+  ACM MM Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models 2024.
+
 
 
 
