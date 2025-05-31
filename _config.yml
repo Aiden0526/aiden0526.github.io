@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Singapore"
 site_theme               : "default"
-title                    : "Jundong's Homepage"
+title                    : "Jundong Xu's Homepage"
 title_separator          : "-"
 name                     : &name "Xu Jundong"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Xu Jundong"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistance in NUS CTIC"
+  bio              : "Incoming PhD Student at NUS"
   location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
