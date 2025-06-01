@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Singapore"
 site_theme               : "default"
-title                    : "Jundong Xu's Homepage"
+title                    : "Xu Jundong's Homepage"
 title_separator          : "-"
 name                     : &name "Xu Jundong"
 description              : &description "personal description"
