@@ -1,53 +1,58 @@
 ---
 permalink: /
-title: "👏 Hello there, I'm Xu Jundong."
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, nice to meet you! I’m Xu Jundong, an incoming PhD Student at the National University of Singapore (NUS) CTIC lab, working under the supervision of Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/). I am also mentored by Dr. [Hao Fei](https://haofei.vip/). Previously, I earned a Master of Computing from NUS and a BSc from University College London (UCL). My research interests focus on AI reasoning, particularly in logical and symbolic reasoning.
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-I enjoy collaborating and learning from diverse perspectives. Feel free to email me if you'd like to discuss research!
+<span class='anchor' id='about-me'></span>
 
-News
-======
-- **05/2025:** The paper [Aristotle](https://arxiv.org/abs/2412.16953) has been accepted to ACL 2025 main conference.
-- **04/2025:** I got a PhD offer from NUS! 
-- **01/2025:** I started working as a research assistant at NUS CTIC.  
-- **01/2025:** I officially received my master's degree.  
-- **12/2024:** Our new paper [Aristotle](https://arxiv.org/abs/2412.16953) is released on Arxiv.
-- **10/2024:** One paper was accepted at the ACM MM Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models.  
-- **05/2024:** The paper [SymbCoT](https://arxiv.org/abs/2405.18357) has been accepted to the ACL 2024 main conference.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-Publications
-=====
-- **[Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework](https://arxiv.org/abs/2412.16953)**  
-  **<span style="color:red">Jundong Xu</span>**, Hao Fei, Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu.  
-  ACL 2025 Main.  
-  <span style="color:grey">This paper is about integrating a decompose-search-resolve framework based on symbolic logic to improve the reasoning chain using LLM.</span>
-
-- **[Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/abs/2405.18357)**  
-  **<span style="color:red">Jundong Xu</span>**, Hao Fei, Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu.  
-  ACL 2024 Main.  
-  <span style="color:grey">This paper is about combining symbolic logical rules in the reasoning chain to improve logical reasoning in LLM.</span>
-
-- **[Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388)**  
-  Hao Fei, Meng Luo, **<span style="color:red">Jundong Xu</span>**, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu.  
-  ACM MM Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models 2024.
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+# 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-Academic Services
-======
-- **Reviewer:** ACL 2025, ICLR 2025, ACM MM 2024, Neurocomputing, NLPCC 2024
-- **Volunteer:** ACL 2024
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-Miscellaneous
-------
-I love sports, especially basketball, tennis, and skiing. I'm a big fan of the Golden State Warriors and Stephen Curry, and I also admire Roger Federer.
-I enjoy reading books, and some of my favorites include Narcissus and Goldmund by Hermann Hesse and A New Earth by Eckhart Tolle.
-I also love watching movies. Some of my favorites are Fight Club by David Fincher and A Confucian Confusion by Edward Yang.
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
