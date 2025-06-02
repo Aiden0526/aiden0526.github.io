@@ -96,5 +96,5 @@ Hao Fei, Meng Luo, **<span style="color:red">Jundong Xu</span>**, Shengqiong Wu,
 
 # Miscellaneous
 I love sports, especially basketball, tennis, and skiing. I'm a big fan of the Golden State Warriors and Stephen Curry, and I also admire Roger Federer.
-I enjoy reading books, especially science fiction and psychology. And some of my favorites include Narcissus and Goldmund and Three Body.
+I enjoy reading books, especially science fiction and psychology. And some of my favorites include Narcissus and Goldmund and The Three-Body.
 I also love watching movies. Some of my favorites are Fight Club by David Fincher and A Confucian Confusion by Edward Yang.
