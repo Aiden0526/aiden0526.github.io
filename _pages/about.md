@@ -20,12 +20,15 @@ redirect_from:
 # Welcome!
 Hi, nice to meet you! I’m Xu Jundong, an incoming PhD Student at the National University of Singapore (NUS) CTIC lab, working under the supervision of Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/). I am also mentored by Dr. [Hao Fei](https://haofei.vip/). Previously, I earned a Master of Computing from NUS and a BSc from University College London (UCL). My research interests focus on AI reasoning, particularly in logical and symbolic reasoning.
 
-I enjoy collaborating and learning from diverse perspectives. Feel free to email me if you'd like to discuss research!
+My work focuses on enhancing the symbolic reasoning capabilities of AI systems. I aim to develop methods that enable AI to perform systematic, reliable, and deterministic inference, bridging the gap between data-driven learning and structured logical reasoning.
+
+I actively seek interdisciplinary collaborations and welcome discussions with researchers who share an interest in AI, logic, and cognitive systems. Feel free to reach out via email to exchange ideas!
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 The paper [Aristotle](https://arxiv.org/abs/2412.16953) has been selected as an **oral** presentation (8% of the accepted paper).
 - *2025.05*: &nbsp;🎉🎉 The paper [Aristotle](https://arxiv.org/abs/2412.16953) has been accepted to ACL 2025 main conference.
 - *2025.04*: &nbsp;🎉🎉 I got a PhD offer from NUS!
 - *2025.01*: &nbsp;🎉🎉 I started working as a research assistant at NUS CTIC. 
@@ -38,7 +41,7 @@ I enjoy collaborating and learning from diverse perspectives. Feel free to email
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/aristotle_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Oral</div><img src='images/aristotle_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework](https://arxiv.org/abs/2412.16953)
@@ -51,7 +54,7 @@ I enjoy collaborating and learning from diverse perspectives. Feel free to email
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/symbcot_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Main</div><img src='images/symbcot_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/abs/2405.18357)
@@ -87,12 +90,12 @@ Hao Fei, Meng Luo, **<span style="color:red">Jundong Xu</span>**, Shengqiong Wu,
 - *2019.09 - 2022.07*, BSc Information Management, University College London
 
 # 💬 Invited Talks
-- *2025.05*, Inviated to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce ACL 2025 paper Aristotle.
+- *2025.05*, Inviated to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce ACL 2025 paper Aristotle. \| [\[video\]](https://www.bilibili.com/video/BV1bAMAz4EPu/?spm_id_from=333.337.search-card.all.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818)
 - *2024.06*, Inviated to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce ACL 2024 paper SymbCoT. \| [\[video\]](https://www.bilibili.com/video/BV1dS411P7Y7/?spm_id_from=333.1387.upload.video_card.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818)
 
 
 # 💻 Academic Services
-- **Reviewer:** ACL 2025, ICLR 2025, ACM MM 2024, Neurocomputing, NLPCC 2024
+- **Reviewer:** ACL (2025), ICLR (2025), EMNLP (2025), ACM MM (2024, 2025), Neurocomputing (2024, 2025), NLPCC 2024
 - **Volunteer:** ACL 2024
 
 # Miscellaneous
