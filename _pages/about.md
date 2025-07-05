@@ -28,7 +28,7 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 The paper [Aristotle](https://arxiv.org/abs/2412.16953) has been selected as an **oral** presentation (8% of the accepted paper).
+- *2025.06*: &nbsp;🎉🎉 The paper [Aristotle](https://arxiv.org/abs/2412.16953) has been selected as an **<span style="color:red">oral</span>** presentation (8% of the accepted paper).
 - *2025.05*: &nbsp;🎉🎉 The paper [Aristotle](https://arxiv.org/abs/2412.16953) has been accepted to ACL 2025 main conference.
 - *2025.04*: &nbsp;🎉🎉 I got a PhD offer from NUS!
 - *2025.01*: &nbsp;🎉🎉 I started working as a research assistant at NUS CTIC. 
@@ -41,10 +41,10 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Oral</div><img src='images/aristotle_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 **Oral<**</div><img src='images/aristotle_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework](https://arxiv.org/abs/2412.16953)
+[Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework (**<span style="color:red">Oral</span>**)](https://arxiv.org/abs/2412.16953)
 
 **<span style="color:red">Jundong Xu</span>**, Hao Fei (Corresponding Author), Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu.
 
@@ -67,10 +67,10 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM Workshop 2024</div><img src='images/acm_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM Workshop 2024<img src='images/acm_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388)
+[Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM (**<span style="color:red">Best Workshop Paper Reward</span>**)](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388)
 
 Hao Fei, Meng Luo, **<span style="color:red">Jundong Xu</span>**, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu.  
 
