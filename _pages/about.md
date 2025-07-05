@@ -41,7 +41,7 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 **Oral<**</div><img src='images/aristotle_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 **Oral**</div><img src='images/aristotle_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework (**<span style="color:red">Oral</span>**)](https://arxiv.org/abs/2412.16953)
@@ -67,7 +67,7 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM Workshop 2024<img src='images/acm_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM Workshop 2024</div><img src='images/acm_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM (**<span style="color:red">Best Workshop Paper Reward</span>**)](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388)
