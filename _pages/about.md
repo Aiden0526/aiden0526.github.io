@@ -41,7 +41,7 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 **Oral**</div><img src='images/aristotle_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Oral</div><img src='images/aristotle_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework (**<span style="color:red">Oral</span>**)](https://arxiv.org/abs/2412.16953)
