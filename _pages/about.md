@@ -67,15 +67,7 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM Workshop 2024</div><img src='images/acm_framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Fine-grained Structural Hallucination Detection for Unified Visual Comprehension and Generation in Multimodal LLM (**<span style="color:red">Best Workshop Paper Reward</span>**)](https://dl.acm.org/doi/pdf/10.1145/3689090.3689388)
-
-Hao Fei, Meng Luo, **<span style="color:red">Jundong Xu</span>**, Shengqiong Wu, Wei Ji, Mong-Li Lee, Wynne Hsu.  
-
-</div>
-</div>
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
