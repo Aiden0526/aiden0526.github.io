@@ -41,46 +41,61 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/muslr_framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[MuSLR: Multimodal Symbolic Logical Reasoning]([https://arxiv.org/abs/2412.16953](https://arxiv.org/abs/2509.25851))
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NeurIPS 2025</div>
+      <img src="{{ site.baseurl }}/images/muslr.png" alt="MuSLR" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[MuSLR: Multimodal Symbolic Logical Reasoning](https://arxiv.org/abs/2509.25851)
 
 **<span style="color:red">Jundong Xu</span>**, Hao Fei\*, Yuhui Zhang, Liangming Pan, Qijun Huang, Qian Liu, Preslav Nakov, Min-Yen Kan, William Yang Wang, Mong-Li Lee, Wynne Hsu.
 
 [**Project**](https://llm-symbol.github.io/MuSLR/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We present the first multimodal symbolic reasoning benchmark grounded in formal logical rules, and propose a modular framework, LogiCAM, to enhance VLMs’ MuSLR capabilities.
+  </div>
 </div>
-</div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Main</div><img src='images/symbcot_framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Oral</div><img src='images/aristotle_framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACL 2025 Oral</div>
+      <img src='./images/aristotle_framework.png' alt="Aristotle framework" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework (**<span style="color:red">Oral</span>**)](https://arxiv.org/abs/2412.16953)
 
 **<span style="color:red">Jundong Xu</span>**, Hao Fei\*, Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu.
 
 [**Project**](https://llm-symbol.github.io/Aristotle/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper is about integrating a decompose-search-resolve framework based on symbolic logic to improve the reasoning chain using LLM. 
-</div>
+- This paper integrates a logic-complete decompose–search–resolve framework to strengthen LLM reasoning with symbolic logic.
+  </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Main</div><img src='images/symbcot_framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACL 2024 Main</div>
+      <img src='./images/symbcot_framework.png' alt="SymbCoT framework" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/abs/2405.18357)
 
 **<span style="color:red">Jundong Xu</span>**, Hao Fei\*, Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu.  
 
 [**Project**](https://github.com/Aiden0526/SymbCoT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper is about combining symbolic logical rules in the reasoning chain to improve logical reasoning in LLM.
+- This paper combines symbolic logical rules with the reasoning chain to improve logical reasoning in LLMs.
+  </div>
 </div>
-</div>
+
 
 
 
