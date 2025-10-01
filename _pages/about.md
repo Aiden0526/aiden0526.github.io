@@ -28,7 +28,7 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 The paper [MuSLR]([https://arxiv.org/abs/2412.16953](https://arxiv.org/abs/2509.25851)) has been accepted to NeurIPS 2025. See you in San Diego!
+- *2025.09*: &nbsp;🎉🎉 The paper [MuSLR](https://arxiv.org/abs/2509.25851) has been accepted to NeurIPS 2025. See you in San Diego!
 - *2025.06*: &nbsp;🎉🎉 The paper [Aristotle](https://arxiv.org/abs/2412.16953) has been selected as an **<span style="color:red">oral</span>** presentation (8% of the accepted paper).
 - *2025.05*: &nbsp;🎉🎉 The paper [Aristotle](https://arxiv.org/abs/2412.16953) has been accepted to ACL 2025 main conference.
 - *2025.04*: &nbsp;🎉🎉 I got a PhD offer from NUS!
@@ -46,7 +46,7 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
   <div class='paper-box-image'>
     <div>
       <div class="badge">NeurIPS 2025</div>
-      <img src="{{ site.baseurl }}/images/muslr.png" alt="MuSLR" width="100%">
+      <img src="images/muslr.png" alt="MuSLR" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -64,7 +64,7 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
   <div class='paper-box-image'>
     <div>
       <div class="badge">ACL 2025 Oral</div>
-      <img src='./images/aristotle_framework.png' alt="Aristotle framework" width="100%">
+      <img src='images/aristotle_framework.png' alt="Aristotle framework" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -82,7 +82,7 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
   <div class='paper-box-image'>
     <div>
       <div class="badge">ACL 2024 Main</div>
-      <img src='./images/symbcot_framework.png' alt="SymbCoT framework" width="100%">
+      <img src='images/symbcot_framework.png' alt="SymbCoT framework" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
