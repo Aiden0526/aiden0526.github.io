@@ -18,16 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome!
-Hi, nice to meet you! I’m Xu Jundong, an incoming PhD Student at the National University of Singapore (NUS) CTIC lab, working under the supervision of Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/). I am also mentored by Dr. [Hao Fei](https://haofei.vip/). Previously, I earned a Master of Computing from NUS and a BSc from University College London (UCL).
+Hi, nice to meet you! I’m Xu Jundong, a first-year PhD Student at the National University of Singapore (NUS) CTIC lab, working under the supervision of Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/). I am also mentored by Dr. [Hao Fei](https://haofei.vip/). Previously, I earned a Master of Computing from NUS and a BSc from University College London (UCL).
 
-My work focuses on enhancing the symbolic reasoning capabilities of AI systems. I aim to develop methods that enable AI to perform systematic, reliable, and deterministic inference, bridging the gap between data-driven learning and structured logical reasoning.
+My work focuses on enhancing the symbolic reasoning capabilities of AI systems. I aim to develop methods that enable AI to perform systematic and reliable inference, bridging the gap between data-driven learning and structured logical reasoning.
 
-I actively seek interdisciplinary collaborations and welcome discussions with researchers who share an interest in AI, logic, and cognitive systems. Feel free to reach out via email to exchange ideas!
+I actively seek interdisciplinary collaborations and welcome discussions with researchers who share an interest in AI, logic, and neuro-symbolic systems. Feel free to reach out via email to talk about ideas!
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 The paper [MuSLR]([https://arxiv.org/abs/2412.16953](https://arxiv.org/abs/2509.25851)) has been accepted to NeurIPS 2025. See you in San Diego!
 - *2025.06*: &nbsp;🎉🎉 The paper [Aristotle](https://arxiv.org/abs/2412.16953) has been selected as an **<span style="color:red">oral</span>** presentation (8% of the accepted paper).
 - *2025.05*: &nbsp;🎉🎉 The paper [Aristotle](https://arxiv.org/abs/2412.16953) has been accepted to ACL 2025 main conference.
 - *2025.04*: &nbsp;🎉🎉 I got a PhD offer from NUS!
@@ -40,15 +41,30 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/muslr_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MuSLR: Multimodal Symbolic Logical Reasoning]([https://arxiv.org/abs/2412.16953](https://arxiv.org/abs/2509.25851))
+
+**<span style="color:red">Jundong Xu</span>**, Hao Fei\*, Yuhui Zhang, Liangming Pan, Qijun Huang, Qian Liu, Preslav Nakov, Min-Yen Kan, William Yang Wang, Mong-Li Lee, Wynne Hsu.
+
+[**Project**](https://llm-symbol.github.io/MuSLR/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We present the first multimodal symbolic reasoning benchmark grounded in formal logical rules, and propose a modular framework, LogiCAM, to enhance VLMs’ MuSLR capabilities.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Main</div><img src='images/symbcot_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Oral</div><img src='images/aristotle_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework (**<span style="color:red">Oral</span>**)](https://arxiv.org/abs/2412.16953)
 
-**<span style="color:red">Jundong Xu</span>**, Hao Fei (Corresponding Author), Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu.
+**<span style="color:red">Jundong Xu</span>**, Hao Fei\*, Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu.
 
-[**Project**](https://github.com/Aiden0526/Aristotle) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://llm-symbol.github.io/Aristotle/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper is about integrating a decompose-search-resolve framework based on symbolic logic to improve the reasoning chain using LLM. 
 </div>
 </div>
@@ -59,7 +75,7 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
 
 [Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/abs/2405.18357)
 
-**<span style="color:red">Jundong Xu</span>**, Hao Fei (Corresponding Author), Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu.  
+**<span style="color:red">Jundong Xu</span>**, Hao Fei\*, Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu.  
 
 [**Project**](https://github.com/Aiden0526/SymbCoT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper is about combining symbolic logical rules in the reasoning chain to improve logical reasoning in LLM.
@@ -87,7 +103,7 @@ I actively seek interdisciplinary collaborations and welcome discussions with re
 
 
 # 💻 Academic Services
-- **Reviewer:** ACL (2025), ICLR (2025), EMNLP (2025), ACM MM (2024, 2025), Neurocomputing (2024, 2025), NLPCC 2024
+- **Reviewer:** ACL (2025), ICLR (2025, 2026), EMNLP (2025), ACM MM (2024, 2025), Neurocomputing (2024, 2025), NLPCC (2024)
 - **Volunteer:** ACL 2024
 
 # Miscellaneous
