@@ -20,9 +20,9 @@ redirect_from:
 # Welcome!
 Hi, nice to meet you! I’m Xu Jundong, a first-year PhD Student at the National University of Singapore (NUS) CTIC lab, working under the supervision of Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/). I am also mentored by Dr. [Hao Fei](https://haofei.vip/). Previously, I earned a Master of Computing from NUS and a BSc from University College London (UCL).
 
-My work focuses on enhancing the symbolic reasoning capabilities of AI systems. I aim to develop methods that enable AI to perform systematic and reliable inference, bridging the gap between data-driven learning and structured logical reasoning.
+My work focuses on enhancing the symbolic reasoning capabilities of computational systems. I aim to develop methods that support systematic and reliable inference, helping to bridge the gap between data-driven approaches and structured logical reasoning.
 
-I actively seek interdisciplinary collaborations and welcome discussions with researchers who share an interest in AI, logic, and neuro-symbolic systems. Feel free to reach out via email to talk about ideas!
+I am especially interested in interdisciplinary collaborations and welcome discussions with researchers working on topics related to logic, reasoning, and neuro-symbolic frameworks. Please feel free to reach out via email to exchange ideas!
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
