@@ -22,7 +22,7 @@ Hi, nice to meet you! I’m Xu Jundong, a first-year PhD Student at the National
 
 My work focuses on enhancing the symbolic reasoning capabilities of computational systems. I aim to develop methods that support systematic and reliable inference, helping to bridge the gap between data-driven approaches and structured logical reasoning.
 
-I am especially interested in interdisciplinary collaborations and welcome discussions with researchers working on topics related to logic, reasoning, and neuro-symbolic frameworks. Check out our <a href="https://llm-symbol.github.io/" style="color:red;">Neuro-Symbolic Model</a> project website. Please feel free to reach out via email to talk about research!
+I am especially interested in interdisciplinary collaborations and welcome discussions with researchers working on topics related to logic, reasoning, and neuro-symbolic frameworks. Check out our **[Neuro-Symbolic Model](https://llm-symbol.github.io/)** project website. Please feel free to reach out via email to talk about research!
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
