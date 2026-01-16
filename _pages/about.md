@@ -48,7 +48,7 @@ I am especially interested in interdisciplinary collaborations and welcome discu
     </div>
   </div>
   <div class='paper-box-text'>
-    <p><a href="https://arxiv.org/abs/2509.25851"><strong>Training LLMs with LogicReward for Faithful and Rigorous Reasoning</strong></a></p>
+    <p><a href="https://arxiv.org/abs/2512.18196"><strong>Training LLMs with LogicReward for Faithful and Rigorous Reasoning</strong></a></p>
     <p><strong><span style="color:red">Jundong Xu</span></strong>, Hao Fei*, Huichi Zhou, Xin Quan, Qijun Huang, Shengqiong Wu, William Yang Wang, Mong-Li Lee, Wynne Hsu.</p>
     <p><a href="https://llm-symbol.github.io/LogicReward/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong></p>
     <ul>
