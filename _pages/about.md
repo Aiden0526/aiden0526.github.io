@@ -27,6 +27,7 @@ I am especially interested in interdisciplinary collaborations and welcome discu
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 The paper [LogicReward](https://llm-symbol.github.io/LogicReward/) is accepted to ICLR 2026. See you in Rio de Janeiro!
 - *2025.12*: &nbsp;🎉🎉 The paper [LogicReward](https://llm-symbol.github.io/LogicReward/) is released on Arxiv.
 - *2025.09*: &nbsp;🎉🎉 The paper [MuSLR](https://arxiv.org/abs/2509.25851) has been accepted to NeurIPS 2025. See you in San Diego!
 - *2025.06*: &nbsp;🎉🎉 The paper [Aristotle](https://arxiv.org/abs/2412.16953) has been selected as an **<span style="color:red">oral</span>** presentation (8% of the accepted paper).
@@ -43,12 +44,12 @@ I am especially interested in interdisciplinary collaborations and welcome discu
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Preprint</div>
+      <div class="badge">ICLR 2026</div>
       <img src="{{ '/images/logicreward_method.png' | relative_url }}" alt="LogicReward" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
-    <p><a href="https://arxiv.org/abs/2512.18196"><strong>Training LLMs with LogicReward for Faithful and Rigorous Reasoning</strong></a></p>
+    <p><a href="https://arxiv.org/abs/2512.18196"><strong>LogicReward: Incentivizing LLM Reasoning via Step-Wise Logical Supervision</strong></a></p>
     <p><strong><span style="color:red">Jundong Xu</span></strong>, Hao Fei*, Huichi Zhou, Xin Quan, Qijun Huang, Shengqiong Wu, William Yang Wang, Mong-Li Lee, Wynne Hsu.</p>
     <p><a href="https://llm-symbol.github.io/LogicReward/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong></p>
     <ul>
@@ -125,6 +126,6 @@ I am especially interested in interdisciplinary collaborations and welcome discu
 - **Volunteer:** ACL 2024
 
 # Miscellaneous
-I love sports, especially basketball, tennis, and skiing. I'm a big fan of the Golden State Warriors and Stephen Curry, and I also admire Roger Federer.
+I love sports, especially basketball, tennis, bouldering, and skiing. I'm a big fan of the Golden State Warriors, Stephen Curry, and Roger Federer.
 I enjoy reading books, especially science fiction and psychology. Some of my favorites include *Narcissus and Goldmund* and *The Three-Body Problem*.
 I also love watching movies. Some of my favorites are *Fight Club* by David Fincher and *A Confucian Confusion* by Edward Yang.
