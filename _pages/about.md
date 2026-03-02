@@ -27,6 +27,7 @@ I am especially interested in interdisciplinary collaborations and welcome discu
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 The paper [MuSLR](https://llm-symbol.github.io/MuSLR/) received the **<span style="color:red;">Best Paper Award</span>** at the AAAI 2026 Logical Reasoning Workshop. We are truly grateful for the recognition!
 - *2026.01*: &nbsp;🎉🎉 The paper [LogicReward](https://llm-symbol.github.io/LogicReward/) is accepted to ICLR 2026. See you in Rio de Janeiro!
 - *2025.12*: &nbsp;🎉🎉 The paper [LogicReward](https://llm-symbol.github.io/LogicReward/) is released on Arxiv.
 - *2025.09*: &nbsp;🎉🎉 The paper [MuSLR](https://arxiv.org/abs/2509.25851) has been accepted to NeurIPS 2025. See you in San Diego!
