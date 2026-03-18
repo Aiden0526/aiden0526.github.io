@@ -118,6 +118,10 @@ I am especially interested in interdisciplinary collaborations and welcome discu
 - *2023.01 - 2025.01*, Master of Computing, National University of Singapore
 - *2019.09 - 2022.07*, BSc Information Management, University College London
 
+# 🏅 Honors and Rewards
+- AAAI 2026 Symbolic and Logical Reasoning Workshop **<span style="color:red;">Best Paper Award</span>**.
+- NUS Research Achievement Award.
+
 # 💬 Invited Talks
 - *2025.05*, Invited to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce ACL 2025 paper Aristotle. \| [\[video\]](https://www.bilibili.com/video/BV1bAMAz4EPu/?spm_id_from=333.337.search-card.all.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818)
 - *2024.06*, Invited to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce ACL 2024 paper SymbCoT. \| [\[video\]](https://www.bilibili.com/video/BV1dS411P7Y7/?spm_id_from=333.1387.upload.video_card.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818)
