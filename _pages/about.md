@@ -123,8 +123,10 @@ I am especially interested in interdisciplinary collaborations and welcome discu
 - NUS Research Achievement Award
 
 # 💬 Invited Talks
-- *2025.05*, Invited to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce ACL 2025 paper Aristotle. \| [\[video\]](https://www.bilibili.com/video/BV1bAMAz4EPu/?spm_id_from=333.337.search-card.all.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818)
-- *2024.06*, Invited to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce ACL 2024 paper SymbCoT. \| [\[video\]](https://www.bilibili.com/video/BV1dS411P7Y7/?spm_id_from=333.1387.upload.video_card.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818)
+- *2026.01**, AAAI 2026 Symbolic and Logical Reasoning Workshop Oral Presentation to introduce paper [MuSLR](https://llm-symbol.github.io/MuSLR/).
+- *2025.11*, Invited to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce NeurIPS 2025 paper [MuSLR](https://llm-symbol.github.io/MuSLR/). \| [\[video\]]([https://www.bilibili.com/video/BV1bAMAz4EPu/?spm_id_from=333.337.search-card.all.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818](https://www.bilibili.com/video/BV1V427BQEJg/?spm_id_from=333.1387.upload.video_card.click&vd_source=85fe1ec6d3637389fec741303c468546))
+- *2025.05*, Invited to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce ACL 2025 paper [Aristotle](https://llm-symbol.github.io/Aristotle/). \| [\[video\]](https://www.bilibili.com/video/BV1bAMAz4EPu/?spm_id_from=333.337.search-card.all.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818)
+- *2024.06*, Invited to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce ACL 2024 paper [SymbCoT](https://llm-symbol.github.io/SymbCoT/). \| [\[video\]](https://www.bilibili.com/video/BV1dS411P7Y7/?spm_id_from=333.1387.upload.video_card.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818)
 
 # 💻 Academic Services
 - **Reviewer:** ACL (2025), ICLR (2025, 2026), EMNLP (2025), ACM MM (2024, 2025), Neurocomputing (2024, 2025), NLPCC (2024)
