@@ -27,6 +27,7 @@ I am especially interested in interdisciplinary collaborations and welcome discu
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *Apr 2026*: 🎉🎉 Honored to be invited to [Tsinghua University](http://tsinghualogic.net/JRC/ailab/) to deliver a talk on [Towards Reliable Logical Reasoning in Large Foundation Models](https://mp.weixin.qq.com/s/-hh4yOxFs_1ROE1YNxEOLg).
 - *2026.02*: &nbsp;🎉🎉 The paper [MuSLR](https://llm-symbol.github.io/MuSLR/) received the **<span style="color:red;">Best Paper Award</span>** at the AAAI 2026 Logical Reasoning Workshop. We are truly grateful for the recognition!
 - *2026.01*: &nbsp;🎉🎉 The paper [LogicReward](https://llm-symbol.github.io/LogicReward/) is accepted to ICLR 2026. See you in Rio de Janeiro!
 - *2025.12*: &nbsp;🎉🎉 The paper [LogicReward](https://llm-symbol.github.io/LogicReward/) is released on Arxiv.
@@ -123,7 +124,8 @@ I am especially interested in interdisciplinary collaborations and welcome discu
 - NUS Research Achievement Award
 
 # 💬 Invited Talks
-- *2026.01**, AAAI 2026 Symbolic and Logical Reasoning Workshop Oral Presentation to introduce paper [MuSLR](https://llm-symbol.github.io/MuSLR/).
+- *2026.04*, Invited to [Tsinghua University](http://tsinghualogic.net/JRC/ailab/) to deliver a talk on [Towards Reliable Logical Reasoning in Large Foundation Models](https://mp.weixin.qq.com/s/-hh4yOxFs_1ROE1YNxEOLg).
+- *2026.01*, AAAI 2026 Symbolic and Logical Reasoning Workshop Oral Presentation to introduce paper [MuSLR](https://llm-symbol.github.io/MuSLR/).
 - *2025.11*, Invited to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce NeurIPS 2025 paper [MuSLR](https://llm-symbol.github.io/MuSLR/). \| [\[video\]]([https://www.bilibili.com/video/BV1bAMAz4EPu/?spm_id_from=333.337.search-card.all.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818](https://www.bilibili.com/video/BV1V427BQEJg/?spm_id_from=333.1387.upload.video_card.click&vd_source=85fe1ec6d3637389fec741303c468546))
 - *2025.05*, Invited to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce ACL 2025 paper [Aristotle](https://llm-symbol.github.io/Aristotle/). \| [\[video\]](https://www.bilibili.com/video/BV1bAMAz4EPu/?spm_id_from=333.337.search-card.all.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818)
 - *2024.06*, Invited to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce ACL 2024 paper [SymbCoT](https://llm-symbol.github.io/SymbCoT/). \| [\[video\]](https://www.bilibili.com/video/BV1dS411P7Y7/?spm_id_from=333.1387.upload.video_card.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818)
