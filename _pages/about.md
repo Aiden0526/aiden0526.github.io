@@ -27,7 +27,8 @@ I am especially interested in interdisciplinary collaborations and welcome discu
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kx4xFzMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *Apr 2026*: 🎉🎉 Honored to be invited to [Tsinghua University](http://tsinghualogic.net/JRC/ailab/) to deliver a talk on [Towards Reliable Logical Reasoning in Large Foundation Models](https://mp.weixin.qq.com/s/-hh4yOxFs_1ROE1YNxEOLg).
+- *2026.06*: 🎉🎉 The paper [EvoArena](https://aiden0526.github.io/EvoArena/) is released on Arxiv and rank as #1 Hugging Face Daily Paper!
+- *2026.04*: 🎉🎉 Honored to be invited to [Tsinghua University](http://tsinghualogic.net/JRC/ailab/) to deliver a talk on [Towards Reliable Logical Reasoning in Large Foundation Models](https://mp.weixin.qq.com/s/-hh4yOxFs_1ROE1YNxEOLg).
 - *2026.02*: &nbsp;🎉🎉 The paper [MuSLR](https://llm-symbol.github.io/MuSLR/) received the **<span style="color:red;">Best Paper Award</span>** at the AAAI 2026 Logical Reasoning Workshop. We are truly grateful for the recognition!
 - *2026.01*: &nbsp;🎉🎉 The paper [LogicReward](https://llm-symbol.github.io/LogicReward/) is accepted to ICLR 2026. See you in Rio de Janeiro!
 - *2025.12*: &nbsp;🎉🎉 The paper [LogicReward](https://llm-symbol.github.io/LogicReward/) is released on Arxiv.
@@ -42,6 +43,23 @@ I am especially interested in interdisciplinary collaborations and welcome discu
 - *2024.05*: &nbsp;🎉🎉 The paper [SymbCoT](https://arxiv.org/abs/2405.18357) has been accepted to the ACL 2024 main conference.
 
 # 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Hugging Face Daily Paper #1</div>
+      <img src="{{ '/images/evoarena_overview.png' | relative_url }}" alt="EvoArena" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://arxiv.org/abs/2512.18196"><strong>EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments</strong></a></p>
+    <p><strong><span style="color:red">Jundong Xu*</span></strong>, Qingchuan Li*, Jiaying Wu, Yihuai Lan, Shuyue Stella Li, Huichi Zhou, Bowen Jiang, Lei Wang, Jun Wang, Anh Tuan Luu, Caiming Xiong, Hae Won Park, Bryan Hooi, Zhiyuan Hu</p>
+    <p><a href="https://aiden0526.github.io/EvoArena/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong></p>
+    <ul>
+      <li>EvoArena evaluates LLM agents in environments where terminal workflows, software repositories, and user preferences evolve over time. EvoMem augments agent memory with patch histories that preserve what changed, why it changed, and when old behavior still matters.</li>
+    </ul>
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -120,8 +138,9 @@ I am especially interested in interdisciplinary collaborations and welcome discu
 - *2019.09 - 2022.07*, BSc Information Management, University College London
 
 # 🏅 Honors and Rewards
-- AAAI 2026 Symbolic and Logical Reasoning Workshop **<span style="color:red;">Best Paper Award</span>**
-- NUS Research Achievement Award
+- AAAI 2026 Symbolic and Logical Reasoning Workshop **<span style="color:red;">Best Paper Award</span>**.
+- NUS Research Achievement Award.
+- Hugging Face Daily Paper #1 ([EvoArena](https://aiden0526.github.io/EvoArena/)).
 
 # 💬 Invited Talks
 - *2026.04*, Invited to [Tsinghua University](http://tsinghualogic.net/JRC/ailab/) to deliver a talk on [Towards Reliable Logical Reasoning in Large Foundation Models](https://mp.weixin.qq.com/s/-hh4yOxFs_1ROE1YNxEOLg).
@@ -131,7 +150,7 @@ I am especially interested in interdisciplinary collaborations and welcome discu
 - *2024.06*, Invited to [NICE](https://nice-intl.github.io) (NLP Academic Exchange) to introduce ACL 2024 paper [SymbCoT](https://llm-symbol.github.io/SymbCoT/). \| [\[video\]](https://www.bilibili.com/video/BV1dS411P7Y7/?spm_id_from=333.1387.upload.video_card.click&vd_source=cb6489f9e15bfd5fa43e30a8e01b0818)
 
 # 💻 Academic Services
-- **Reviewer:** ACL (2025), ICLR (2025, 2026), EMNLP (2025), ACM MM (2024, 2025), Neurocomputing (2024, 2025), NLPCC (2024)
+- **Reviewer:** ICLR, NeurIPS, ACL, EMNLP, ACM MM, Neurocomputing, NLPCC
 - **Volunteer:** ACL 2024
 
 # Miscellaneous
