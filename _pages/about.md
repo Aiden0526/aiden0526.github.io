@@ -52,7 +52,7 @@ I am especially interested in interdisciplinary collaborations and welcome discu
     </div>
   </div>
   <div class='paper-box-text'>
-    <p><a href="https://arxiv.org/abs/2512.18196"><strong>EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments</strong></a></p>
+    <p><a href="https://arxiv.org/pdf/2606.13681"><strong>EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments</strong></a></p>
     <p><strong><span style="color:red">Jundong Xu*</span></strong>, Qingchuan Li*, Jiaying Wu, Yihuai Lan, Shuyue Stella Li, Huichi Zhou, Bowen Jiang, Lei Wang, Jun Wang, Anh Tuan Luu, Caiming Xiong, Hae Won Park, Bryan Hooi, Zhiyuan Hu</p>
     <p><a href="https://aiden0526.github.io/EvoArena/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong></p>
     <ul>
