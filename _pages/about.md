@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome!
-Hi, nice to meet you! I’m Xu Jundong, a first-year PhD Student at the National University of Singapore (NUS) CTIC lab, working under the supervision of Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/). I am also mentored by Dr. [Hao Fei](https://haofei.vip/). Previously, I earned a Master of Computing from NUS and a BSc from University College London (UCL).
+Hi, nice to meet you! I’m Xu Jundong, a first-year PhD Student at the National University of Singapore (NUS) CTIC lab, working under the supervision of Prof. [Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/). Previously, I earned a Master of Computing from NUS and a BSc from University College London (UCL).
 
 My work focuses on enhancing the symbolic reasoning capabilities of computational systems. I aim to develop methods that support systematic and reliable inference, helping to bridge the gap between data-driven approaches and structured logical reasoning.
 
